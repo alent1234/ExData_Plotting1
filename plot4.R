@@ -33,5 +33,5 @@ legend("topright", col=c("black", "red", "blue"), lty=1, lwd=2,
 
 })
 ##save the plots to a file
-dev.copy(png, file="c:/backup/R/Class4/Week1/plot44.png", height=700, width=700)
+dev.copy(png, file="c:/backup/R/Class4/Week1/plot4.png", height=700, width=700)
 dev.off()
